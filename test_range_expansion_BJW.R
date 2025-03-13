@@ -1,4 +1,5 @@
 #Test for range expansion
+#By: Ben J. Wiens
 
 setwd("FiveDecadesCounted")
 
