@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+message: "This is a referenceable repository for the Southward Nivalis project."
+authors:
+- family-names: "Campbell"
+  given-names: "Peter"
+  orcid: "https://orcid.org/0000-0003-3967-3109"
+title: "SoutwardNivalis"
+doi: 10.5281/zenodo.15041890
+date-released: 2025-01-23
+url: "https://github.com/PeterCampbell8/SouthwardNivalis/tree/main"
